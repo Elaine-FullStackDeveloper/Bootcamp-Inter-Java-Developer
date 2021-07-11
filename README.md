@@ -1,6 +1,7 @@
 # Bootcamp-Inter-Java-Developer
 
 Este bootcamp permite o contato com as principais tecnologias utilizadas pelo Inter, focando no desenvolvimento de software aprofundando na linguagem Java.
+Realizado pela plataforma da Digital Innovation One.
 
 Cursos:
 
